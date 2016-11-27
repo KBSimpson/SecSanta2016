@@ -1,6 +1,21 @@
 #header {
-	height: 50px; 
-	width: 300px;
-	border: 2px solid black;
+	height: 30px; 
+	width: 600px;
 	background-color: B4B4B4; 
+	position: relative;
+	text-align: center;
+	margin: auto;
+}
+
+#description {
+	width: 600px;
+	background-color: a1a1a1;
+	position: relative;
+	margin: auto;
+}
+
+#form {
+	width: 600px;
+	background-color: b4b4b4;
+	margin: auto;
 }
